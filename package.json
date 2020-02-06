@@ -1,0 +1,16 @@
+{
+  "name": "node-user-generator",
+  "version": "1.0.0",
+  "description": "node-user-generator",
+  "main": "",
+  "repository": "https://github.com/Gittenger/node-user-generator.git",
+  "scripts": {
+    "start": "node ./generate-users.js"
+  },
+  "author": "John Pittenger",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "uuid": "^3.4.0"
+  }
+}
